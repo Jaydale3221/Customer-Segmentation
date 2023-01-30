@@ -1,6 +1,7 @@
 # Customer-Segmentation
 Customer Segmentation
 
+Dataset Link: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/data
 
 
 In this I have worked on, customer segmentation analysis. The purpose of this analysis was to group similar customers together and understand their behavior, preferences and spending habits. The data for this analysis was collected from kaggle and it consisted of information such as customer ID, invoice number, description, quantity, unit price, invoice date, and country.
